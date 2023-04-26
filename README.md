@@ -51,17 +51,14 @@ npm run build
 
 This will create a dist directory containing the compiled and minified files for the app.
 
-Alternatively, you can visit the deployed version of the app at <a href="http://example.com/" target="_blank">https://forkify-bengi.netlify.app/</a>.
+Alternatively, you can visit the deployed version of the app at https://forkify-bengi.netlify.app/.
 
 <br />
 
 ## API
 
-The Forkify Recipe App uses the Forkify API v2 to retrieve recipe data. To use the app with this API, you'll need to get API key on their website:
-<br />
-<a href="http://example.com/" target="_blank">https:/forkify-api.herokuapp.com/v2</a>.
-<br />
-<br />
+The Forkify Recipe App uses the Forkify API v2 to retrieve recipe data. To use the app with this API, you'll need to get API key on their website: https://forkify-api.herokuapp.com/v2.
+
 Once you have an API key, change the
 `src/js/config.js`
 file in the project directory and edit the following line:
