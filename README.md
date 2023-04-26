@@ -51,6 +51,8 @@ npm run build
 
 This will create a dist directory containing the compiled and minified files for the app.
 
+Alternatively, you can visit the deployed version of the app at https://forkify-bengi.netlify.app/.
+
 <br />
 
 ## API
