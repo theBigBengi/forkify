@@ -1,5 +1,7 @@
 # Forkify App
 
+### Explore, share and try new recipes
+
 This repository contains the code for the Forkify App built using pure vanilla JavaScript with the Model-View-Controller (MVC) architecture pattern. This app allows users to search for recipes, save them to their favorites, and even create and upload (local storage) their own custom recipes.
 Built for self learning purposes.
 
